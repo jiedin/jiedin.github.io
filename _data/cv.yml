@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master
-      institution: Boston University, Boston, Massachusetts
-      year: 1905
+    - title: M.S. in Mathematical Finance & Financial Technology
+      institution: Boston University, Boston, USA
+      year: 2023 - Present
       description:
         - Description 1.
         - Description 2.
@@ -21,8 +21,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    - title: M.S. in Applied Statistics
+      institution: Shanghai University of Finance and Economics, Shanghai, China
       year: 1900
       description:
         - Description 1.
