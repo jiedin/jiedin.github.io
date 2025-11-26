@@ -1,46 +1,58 @@
 ---
 layout: about
-title: Jie Ding
+title: About
 permalink: /
-subtitle: Master's Student · YYYY University
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+about_subtitle: Biography
+
 
 profile:
   align: left
-  image: prof_pic.jpg
-  image_circular: true
+  image: profile.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Boston, MA</p>
-    <p>Email: xxx@xxx.edu</p>
-
-social: true
+    <p> <small>Mathematics Institute<small></p>
+    <p> <small>University of Oxford<small></p>
+  role: PhD Student
+  organization: Oxford University  
+  organization_url:  
 
 interests:
-  - Network survival analysis
-  - Causal inference
-  - High-dimensional statistics
+  - Higher Order Optimization
+  - Tensor Method / Tensor Approximation
+  - Sum of Squares Techniques
+  - Computational Complexity Analysis
+  - Regularization Techniques
+  - Tractable Polynomial Optimization
 
 education:
-  - degree: M.S. in XXXX, YYYY University
-    year: 2023–present
-  - degree: B.S. in XXXX, ZZZZ University
-    year: 2019–2023
+  courses:
+    - course: Master Candidate in Applied Statistics, 2023-present
+      institution: Shanghai University of Finance and Economics
+      year:
+    - course: M.Sc. Applied Statistics, 2024-2026
+      institution: Boston University
+      year:
+    - course: B.Sc. Information and Computational Science 
+      institution: Nanjing University of Information Science & Technology
+      year:
 
-selected_papers: true
 
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
 
-latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+
+
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
-Hi! I'm Jie Ding, currently a master's student in XXXX at YYYY University.  
-My research interests include network survival analysis, statistical learning, and high-dimensional inference.
 
-My current work focuses on XXX...
 
-Potential collaborations: If you're interested in these topics, feel free to reach out!
+Hi! I’m Jie Ding, currently pursuing a Ph.D. in [Applied Mathematics](https://www.maths.ox.ac.uk/groups/numerical-analysis) at the [University of Oxford](https://www.maths.ox.ac.uk/), advised by Prof. [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) and fully funded by the [CIMDA-Oxford Studentship](https://cimda-oxford.datasig.ac.uk/team).
 
+My research interests center on **utilizing higher-order information for efficient nonconvex optimization**, encompassing computational complexity analysis, **tensor approximation**, sum of squares techniques, implementable high-order subproblem solvers, and adaptive regularization methods.
+
+I completed both my undergraduate and first master’s degrees in **Mathematics at Oxford**, as well as an M.Sc. in Mathematical Modelling and Scientific Computing, supervised by Yuji Nakatsukasa. After my undergraduate studies, I took a career break to gain practical industry experience at Goldman Sachs and J.P. Morgan before beginning my Ph.D.
+
+**Potential Collaborations:** If you are interested in these topics, feel free to reach out for more information!
+
+&nbsp;
