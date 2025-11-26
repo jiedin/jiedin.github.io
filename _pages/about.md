@@ -44,7 +44,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi! I’m Jie Ding, currently pursuing a Ph.D. in [Applied Mathematics](https://www.maths.ox.ac.uk/groups/numerical-analysis) at the [University of Oxford](https://www.maths.ox.ac.uk/), advised by Prof. [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) and fully funded by the [CIMDA-Oxford Studentship](https://cimda-oxford.datasig.ac.uk/team).
+Hi! I’m Jie Ding, currently pursuing a M.Sc in Applied Statistics at the Boston University advised by Prof. Huggins and fully funded by the [CIMDA-Oxford Studentship](https://cimda-oxford.datasig.ac.uk/team).
 
 My research interests center on **utilizing higher-order information for efficient nonconvex optimization**, encompassing computational complexity analysis, **tensor approximation**, sum of squares techniques, implementable high-order subproblem solvers, and adaptive regularization methods.
 
