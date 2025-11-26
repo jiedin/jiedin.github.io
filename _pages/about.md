@@ -18,12 +18,9 @@ profile:
   organization_url:  
 
 interests:
-  - Higher Order Optimization
-  - Tensor Method / Tensor Approximation
-  - Sum of Squares Techniques
-  - Computational Complexity Analysis
-  - Regularization Techniques
-  - Tractable Polynomial Optimization
+  - Survival Analysis
+  - Stochastic Optimization
+  - Causal Inference
 
 education:
   courses:
