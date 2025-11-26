@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jie Ding",
+    "label": "Master",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jayding@bu.edu",
+    "phone": "(857) 880-3334",
+    "url": "https://jiedin.github.io/",
+    "summary": "A student",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "13 Pomeory St",
+      "postalCode": "MA 02134",
+      "city": "Boston",
       "countryCode": "US",
-      "region": "California"
+      "region": "massachusetts"
     },
     "profiles": [
       {
