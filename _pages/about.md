@@ -44,12 +44,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi! I’m Jie Ding, currently pursuing a M.Sc in Applied Statistics at the Boston University advised by Prof. Huggins and fully funded by the [CIMDA-Oxford Studentship](https://cimda-oxford.datasig.ac.uk/team).
-
-My research interests center on **utilizing higher-order information for efficient nonconvex optimization**, encompassing computational complexity analysis, **tensor approximation**, sum of squares techniques, implementable high-order subproblem solvers, and adaptive regularization methods.
-
-I completed both my undergraduate and first master’s degrees in **Mathematics at Oxford**, as well as an M.Sc. in Mathematical Modelling and Scientific Computing, supervised by Yuji Nakatsukasa. After my undergraduate studies, I took a career break to gain practical industry experience at Goldman Sachs and J.P. Morgan before beginning my Ph.D.
-
-**Potential Collaborations:** If you are interested in these topics, feel free to reach out for more information!
 
 &nbsp;
