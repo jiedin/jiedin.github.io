@@ -19,13 +19,13 @@ weight = 100
 
 +++
 
-Course Developer & Instructor
+# Course Developer & Instructor
 
-- **IIMT 3643**: Data Visualization and Visual Analytics, University of Hong Kong, Spring 2023 ~ now
+# - **IIMT 3643**: Data Visualization and Visual Analytics, University of Hong Kong, Spring 2023 ~ now
 
-- **MGMT 479**: Data Visualization, Purdue University, Spring 2020 & 2021
+# - **MGMT 479**: Data Visualization, Purdue University, Spring 2020 & 2021
 
-Instructor
+# Instructor
 
-- **IIMT 3636**: Decision and Risk Analysis, University of Hong Kong, Spring 2022 ~ now
+# - **IIMT 3636**: Decision and Risk Analysis, University of Hong Kong, Spring 2022 ~ now
 
