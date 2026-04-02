@@ -24,7 +24,7 @@ interests:
 - Causal Inference
 education:
   courses:
-    - course: M.S. in Mathematical Finance & Financial Technology
+    - course: M.S. in Mathematical Finance & FinTech
       institution: Boston University
       year: 2026
     - course: M.S. in Applied Statistics
