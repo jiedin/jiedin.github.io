@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yipu Deng
+name: Jie Ding
 
 # Username (this should match the folder name)
 authors:
@@ -10,17 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor in Management Information Systems
+role: Dual Master’s Student
 
 # Organizations/Affiliations
 organizations:
-- name: HKU Business School
-  url: "https://www.fbe.hku.hk/"
+- name: Boston University
+- name: Shanghai University of Finance and Economics
 
 interests:
-- Economics of AI
-- Platform Management (e.g., UGC, Crowdfunding, Education, Healthcare, Live commerce)
-
+- Survival Analysis
+- Large-Scale Learning
+- Statistical Learning
 education:
   courses:
   - course: Ph.D. in Management Information Systems
@@ -29,6 +29,7 @@ education:
   - course: B.B.A. in Management Information Systems
     institution: Shanghai University of Finance and Economics
     year: 2016
+  - course: B.sc
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
