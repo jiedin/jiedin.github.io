@@ -71,12 +71,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**Kauffman Best Student Paper Award Runner-up**, _International Conference on Information Systems(ICIS)_, 2020
+**National Scholarship**,, Ministry of Education of the People’s Republic of China, 2024
 
-**Best Dissertation Proposal Award Nomination**, _The Workshop on Information Technologies and Systems(WITS)_, 2020
+**First-Class Academic Scholarship**, Shanghai University of Finance and Economics, 2024
 
-**Certificate for Outstanding Research**, _Purdue University_, 2019&2020
+**Second-Class Academic Scholarship**, Shanghai University of Finance and Economics, 2025
 
-**Certificate for Distinguished Teaching**, _Krannert School of Management_, 2020
+**Outstanding Graduate of Shanghai**, Shanghai Municipal Education Commission, 2026
 
-**Best Student Paper Award Runner-up**, _Conference on Information Systems and Technology(CIST)_, 2018
