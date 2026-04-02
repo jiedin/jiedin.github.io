@@ -79,10 +79,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Y. Deng, J. Zheng, G. Li, and K. Kannan, "When Reward Meets Donation", Research in Progress.
+Y. Wang, J. Ding, & J. H. Huggins. Accurate Large-scale Uncertainty Quantification using Stochastic Gradient Markov Chain Monte Carlo. Manuscript under review at ICML, 2026.
 
-Y. Deng, J. Zheng, G. Li, and K. Kannan, "Unlocking the Power Durability of Livestream Selling", Research in Progress.
-
-Y. Yin, Y. Deng, X. Lei, "Taste of Free Lunch: The Impact of Free Product Disclosure on Review Dynamics", Research in Progress.
-
-S. Liang, X. Zhang, Y. Deng, Y. Fang, "When Artificial Intelligence Speaks, Humans Respond: The Impact of AI-generated Answers on User Contributions", Research in Progress.
+J. Ding, & Miao. H. Network Varying Coefficient Cox Model. Research in progress.
