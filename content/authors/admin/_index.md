@@ -19,40 +19,43 @@ organizations:
 
 interests:
 - Survival Analysis
-- Large-Scale Learning
+- Uncertainty quantification
 - Statistical Learning
+- Causal Inference
 education:
   courses:
-  - course: Ph.D. in Management Information Systems
-    institution: Purdue University
-    year: 2021
-  - course: B.B.A. in Management Information Systems
-    institution: Shanghai University of Finance and Economics
-    year: 2016
-  - course: B.sc
+    - course: M.S. in Mathematical Finance & Financial Technology
+      institution: Boston University
+      year: 2026
+    - course: M.S. in Applied Statistics
+      institution: Shanghai University of Finance and Economics
+      year: 2026
+    - course: B.S. in Information and Computing Science
+      institution: Nanjing University of Information Science and Technology
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=myph5TQAAAAJ
+#  - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?hl=en&user=myph5TQAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/dengyipu
+  link: https://github.com/jiedin
 - icon: envelope
   icon_pack: fas
-  link: mailto:yipudeng@hku.hk
+  link: mailto:jayding@bu.edu
 
  
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,8 +67,10 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor in [Innovation and Information Management](https://www.fbe.hku.hk/people/faculty?pg=1&staff_type=faculty&subject_area=innovation-and-information-management&track=professoriate) at HKU Business School. I am fortunately advised by Professor [Karthik Kannan](https://provost.arizona.edu/person/karthik-kannan) and [Jinyang Zheng](https://simon.rochester.edu/faculty/jinyang-zheng) from [Mitch Daniels School of Business](https://business.purdue.edu/) at Purdue University.
+I am a dual master’s student in Mathematical Finance & Financial Technology at Boston University and Applied Statistics at Shanghai University of Finance and Economics.
 
-My research is about the dynamics of human behaviors in the machine-platform-crowd transformation. I use machine learning, econometrics, and structural modeling methods to study the transformational impacts of information technology on human behaviors.  
+My background combines statistics, machine learning, optimization, and quantitative modeling. My recent work has involved stochastic algorithms, uncertainty quantification, predictive modeling, and interpretable machine learning, with applications in health data and complex structured data.
 
-*I am currently seeking self-motivated PhD students and research assistants to join my team!*
+I have research experience in computational statistics and applied machine learning, and I enjoy building rigorous, data-driven solutions to real-world problems.
+
+I am currently seeking full-time opportunities in data science, quantitative research, machine learning, and related fields.
