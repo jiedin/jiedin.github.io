@@ -67,10 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a dual master’s student in Mathematical Finance & Financial Technology at Boston University and Applied Statistics at Shanghai University of Finance and Economics.
-
-My background combines statistics, machine learning, optimization, and quantitative modeling. My recent work has involved stochastic algorithms, uncertainty quantification, predictive modeling, and interpretable machine learning, with applications in health data and complex structured data.
-
-I have research experience in computational statistics and applied machine learning, and I enjoy building rigorous, data-driven solutions to real-world problems.
+I am a dual master’s student in Mathematical Finance & Financial Technology at Boston University and Applied Statistics at Shanghai University of Finance and Economics. My background includes statistics, machine learning, predictive modeling, and data analysis. I have worked on projects involving health data modeling, long-text classification, interpretable machine learning, and stochastic optimization. I enjoy turning complex data into practical insights and building reliable models for real-world problems.
 
 I am currently seeking full-time opportunities in data science, quantitative research, machine learning, and related fields.
