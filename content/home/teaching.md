@@ -21,5 +21,5 @@ weight = 100
 
 Teaching Assistant
 
-- **QSTMF 793**: Statistics for Mathematical Finance, University of Hong Kong, Spring 2023 ~ now
+- **QSTMF 793**: Statistics for Mathematical Finance, Boston University, Fall
 
