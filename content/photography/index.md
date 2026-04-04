@@ -10,6 +10,5 @@ gallery_item = [
 ]
 +++
 
-A small collection of photographs.
 
 {{< gallery >}}
